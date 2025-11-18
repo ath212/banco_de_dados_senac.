@@ -1,5 +1,4 @@
-# ☕ Banco de Dados – "Cafeteria"
-Este repositório contém um projeto de banco de dados desenvolvido em MySQL, utilizando comandos **DDL** e **DML**, com foco em criar e estruturar um sistema simples para uma cafeteria fictícia.
+# ☕ Banco de Dados – "DDL e DML"
 ---
 
 ## 📘 O que são DDL e DML?
@@ -20,9 +19,10 @@ Principais comandos:
 - `SELECT` – consulta dados de uma tabela
 - `UPDATE` – atualiza informações de uma tabela
 - `DELETE` – remove registros de uma tabela
+- 
 
 ---
-
+Projeto de banco de dados desenvolvido em MySQL, utilizando comandos **DDL** e **DML**, com foco em criar e estruturar um sistema simples para uma cafeteria fictícia.
 ## 📦 Estrutura do Banco de Dados "Cafeteria"
 
 ### **1. Clientes**
