@@ -1,4 +1,5 @@
 **💡 Repositório de Conhecimentos em Banco de Dados - ADS**
+
 **Este repositório foi criado com o objetivo de compartilhar e documentar os conhecimentos adquiridos na disciplina de Banco de Dados durante o curso de Análise e Desenvolvimento de Sistemas (ADS).**
 
 **📚 Conteúdo Principal**
