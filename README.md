@@ -5,7 +5,7 @@
 **📚 Conteúdo Principal**
 **Aqui você encontrará materiais como:**
 
-**Scripts SQL (DDL, DML, DQL)**
+**Scripts SQL (DDL, DML)**
 
 **Modelos Conceituais, Lógicos e Físicos de Bancos de Dados**
 **Exercícios Resolvidos e Projetos Práticos**
