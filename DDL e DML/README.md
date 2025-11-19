@@ -62,7 +62,7 @@ Principais comandos:
 2.  <img width="757" height="28" alt="image" src="https://github.com/user-attachments/assets/b97bb125-af23-4125-a60f-8de63590eaa7" />
 3. depois va em 'Reverse Engineer'
 4. <img width="375" height="26" alt="image" src="https://github.com/user-attachments/assets/4d70c2c1-5dc1-4fba-82fe-7ad632f6ba82" />
-. Execute o script completo (⚡ Run)
+45. avance até a seleção dos schemas e selecione o schema que voçê quer gerare o diagrama
 7. As tabelas serão criadas automaticamente no banco `cafeteria`
 
 
