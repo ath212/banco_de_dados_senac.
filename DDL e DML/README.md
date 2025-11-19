@@ -1,6 +1,5 @@
 # ☕ Banco de Dados – "DDL e DML"
 ---
-
 ## 📘 O que são DDL e DML?
 
 ### 🔷 DDL – *Data Definition Language*
@@ -19,10 +18,9 @@ Principais comandos:
 - `SELECT` – consulta dados de uma tabela
 - `UPDATE` – atualiza informações de uma tabela
 - `DELETE` – remove registros de uma tabela
-- 
 
 ---
-Projeto de banco de dados desenvolvido em MySQL, utilizando comandos **DDL** e **DML**, com foco em criar e estruturar um sistema simples para uma cafeteria fictícia.
+🔶Projeto de banco de dados desenvolvido em MySQL, utilizando comandos **DDL** e **DML**, com foco em criar e estruturar um sistema simples para uma cafeteria fictícia.
 ## 📦 Estrutura do Banco de Dados "Cafeteria"
 
 ### **1. Clientes**
@@ -85,11 +83,11 @@ O repositório inclui:
 - Conceitos de DDL e DML
 - Explicações dos comandos básicos
 - Modelo estrutural do banco de dados
-- Script SQL organizado e comentado
-- comandos usado no script.sql e aplicações
+- Script SQL "cafeteria.sql"
+- comandos usado em cafeteria.sql e exemplos de como inserir dados, alterar tabela, etc.
 
 ---
 
 ## 👤 Autor
-Projeto criado para fins acadêmicos – SENAC  
+Arthur Andrey Ferreira Paulo – SENAC  
 Disciplina: Banco de Dados  
