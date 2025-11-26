@@ -89,5 +89,5 @@ O repositório inclui:
 ---
 
 ## 👤 Autor
-Arthur Andrey Ferreira Paulo – SENAC  
-Disciplina: Banco de Dados  
+Arthur Andrey Ferreira Paulo
+SENAC - Disciplina: Banco de Dados  
